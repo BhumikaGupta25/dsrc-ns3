@@ -1,9 +1,9 @@
 # DSRC Simulation in ns-3
 
-This project is a **Dedicated Short-Range Communications (DSRC) simulation** implemented using the [ns-3 network simulator](https://www.nsnam.org/).  
+**This project is a **Dedicated Short-Range Communications (DSRC) simulation** implemented using the [ns-3 network simulator](https://www.nsnam.org/).  
 
 The simulation models two vehicles equipped with 802.11p radios communicating Basic Safety Messages (BSMs) at 10Hz while moving towards each other at 72 km/h.  
-It demonstrates the use of mobility models, realistic PHY/MAC configuration for 802.11p, and collects performance metrics like packet delivery ratio, delay, and throughput.
+It demonstrates the use of mobility models, realistic PHY/MAC configuration for 802.11p, and collects performance metrics like packet delivery ratio, delay, and throughput.**
 ---
 
 ## Features
