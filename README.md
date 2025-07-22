@@ -42,8 +42,8 @@ Follow the official guide:
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/dsrc-simulation.git
-cd dsrc-simulation
+git clone https://github.com/BhumikaGupta25/dsrc-ns3.git
+cd dsrc-ns3
 ```
 
 ## Simulation Parameters
