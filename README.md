@@ -46,14 +46,6 @@ git clone https://github.com/your-username/dsrc-simulation.git
 cd dsrc-simulation
 ```
 
-2️⃣ Copy the .cc file into your ns-3 scratch directory:
-    cp dsrc-simulation.cc ~/path/to/ns-3/scratch/
-
-3️⃣ Build:
-    cd ~/path/to/ns-3/
-./waf
----
-
 ## Simulation Parameters
 
 | **Parameter**         | **Value**         |
