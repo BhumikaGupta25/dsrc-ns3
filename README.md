@@ -36,11 +36,11 @@ Logs key simulation events to console.
 
 ### Install ns-3
 Follow the official guide:  
-👉 [https://www.nsnam.org/wiki/Installation](https://www.nsnam.org/wiki/Installation)
+[https://www.nsnam.org/wiki/Installation](https://www.nsnam.org/wiki/Installation)
 
 ### Build the simulation
 
-1️⃣ Clone this repository:
+Clone this repository:
 ```bash
 git clone https://github.com/your-username/dsrc-simulation.git
 cd dsrc-simulation
